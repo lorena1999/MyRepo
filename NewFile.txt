@@ -2,3 +2,5 @@ Testing Git 2020
 MODIFIED!
 
 I am on the branch1 branch
+
+Add new feature
